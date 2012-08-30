@@ -16,4 +16,6 @@ class Calclator
     {
         return $a * $a;
     }
+
+	$a;
 }
